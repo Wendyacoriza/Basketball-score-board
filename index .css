@@ -1,0 +1,21 @@
+body{
+    background-color: lavenderblush;
+    margin: 0;
+    text-align: auto;
+    height: 150;
+}
+.score{
+    background: palegreen;
+    font-size: 90px;
+    color: black;
+    width : 120;
+    margin: 20px;
+}
+.container{
+    background-color: antiquewhite;
+    display: center;
+    justify-content: space-around;
+}
+.button{
+    background: none;
+}
